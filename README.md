@@ -1,0 +1,2 @@
+# Fashion-Recommender-System-with-the-help-of-Machine-Learning-
+This project is a Fashion Recommender System where users upload an apparel image and the system recommends visually similar products. I used a pre-trained ResNet50 deep learning model for feature extraction and generated image embeddings. Then I applied the KNN algorithm using Euclidean distance to find similar images from the dataset. 
